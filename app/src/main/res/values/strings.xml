@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="title_toolbar">Contatos</string>
+    <string name="add_novo_contato">Adicionar novo contato</string>
+    <string name="add_nome">Nome</string>
+    <string name="add_primeiro_nome">Primeiro Nome</string>
+    <string name="add_segundo_nome">Segundo Nome</string>
+    <string name="add_sobre_nome">Sobre Nome</string>
+    <string name="add_cell">Telefone</string>
+    <string name="add_telefone">Adicionar Número</string>
+    <string name="add_Numero">Adicionar</string>
+</resources>
