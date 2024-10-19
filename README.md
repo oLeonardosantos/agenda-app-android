@@ -4,8 +4,8 @@ Agenda App é um aplicativo Android para gerenciamento de contatos e compromisso
 
 ## 📱 Funcionalidades
 
-- Adicionar, editar e contatos
-- Visualizar detalhes de contatos e eventos
+- Adicionar contatos
+- Visualizar detalhes de contatos
 - Armazenamento local de dados com Room
 - Interface baseada no Material Design
 
